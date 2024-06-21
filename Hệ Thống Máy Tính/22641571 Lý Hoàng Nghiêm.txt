@@ -1,0 +1,24 @@
+Các thành phần của máy tính: 
+−Máy tính = Hardware + Firmware + Software + Data 
+−Hardware = Input Devices + CPU  + RAM + ROM(Bios + Storage Devices + Output Devices +Mainboard + Power Supply) 
+−Hardware = Internal +         External       (Các thiết bị ngoại vi) 
+                   (Bên trong)         (Bên ngoài)
+−Bàn phím, màn hình - bắt buộc - thiết bị nhập xuất chuẩn (Standard Devices). 
+−Hardware = các thành phần thuộc về vật lý của máy tính.
+−Software = System Software + Application.
+−System Software = OS (Hệ điều hành Operating System) + Utilities + Driver. 
+−Application = Education, Relax, Office....
+−Programming Language ( Ngôn ngữ lập trình ) 
+−Data : 
+           Hệ nhị phân - hệ cơ số 2 - 0,1
+           Hệ bát phân - hệ cơ số 8 - 0,1,2,3....7
+           Hệ thập phân - hệ cơ số 10 - 0,1,2,3...9
+           Hệ thập lục phân - hệ cơ số 16 - 0,1,2,3...9,a,b,c,d,e,f 
+
+Bus là hệ thống giao tiếp và truyền dẫn dữ liệu giữa các thành phần trong một hệ thống máy tính
+Bus dữ liệu: Vận chuyển lệnh và dữ liệu giữa CPU và Bộ nhớ hay giữa Bộ nhớ và các Modun vào ra
+Bus địa chỉ: (xác định) Vận chuyển địa chỉ từ CPU đến Bộ nhớ hay từ CPU đến các Modun vào ra
+Bus điều khiển: Vận chuyển tín hiệu điều khiển từ CPU đến Bộ nhớ hay từ CPU đến các Modun vào ra hay tín hiệu yêu cầu ngắt
+
+Băng thông: 64 *1 000 / 8 = 8.000 MBps
+Không gian bộ nhớ 2^10+10+10+10 Byte =  1 TB
